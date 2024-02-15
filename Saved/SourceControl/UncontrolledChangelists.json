@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/UI/WB_GameplayUI.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/blue_diamond_-_free_giveaway.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/blue_diamond_-_free_giveaway_texture_0.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/blue_diamond_-_free_giveaway_texture_0_Mat.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/blue_diamond_-_free_giveaway_texture_1.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/blue_diamond_-_free_giveaway_texture_1_Mat.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/blue_diamond_-_free_giveaway_texture_2.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/blue_diamond_-_free_giveaway_texture_2_Mat.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pickups/Collectable_Diamond_BP.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/DiamondOutside.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pickups/BP_Diamond.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/Pickups/BP_HealPack.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/HealthPickUp_Cross.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/HealthPickUp_Ring.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/Mat.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Meshes/Mat_1.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer_AIController.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_Pursuer.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/UI/WB_GameplayUI.uasset",
+				"C:/Users/iiFor/OneDrive/Documents/Unreal Projects/UnrealKitMP2/UnrealLearningKit 5.3/Content/UI/WP_HealthBar.uasset"
+			]
+		}
+	]
+}
